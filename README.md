@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailesh Ramkisoen</h1>
-<h3 align="center">A passionate web junior full-stack developer from The Netherlands</h3>
+<h3 align="center">A passionate junior full-stack web developer from The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaileshramkisoen&label=Profile%20views&color=0e75b6&style=flat" alt="shaileshramkisoen" /> </p>
 
