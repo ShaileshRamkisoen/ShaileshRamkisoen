@@ -9,7 +9,7 @@
 
 - 🤝 I’m searching for **Intership Position**
 
-- ⚡ Fun fact **i am a actor**
+- ⚡ Fun fact **i am an actor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
